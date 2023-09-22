@@ -12,6 +12,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
+**Infrastructure & Tools**
+
+![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+
+
 <!--
 **higddas/higddas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
