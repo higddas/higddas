@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 성장 중인 초보 개발자 입니다 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhigddas&count_bg=%23A023D0&title_bg=%23555555&icon=&icon_color=%23B69191&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **higddas/higddas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
