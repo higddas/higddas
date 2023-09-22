@@ -15,6 +15,7 @@
 **Infrastructure & Tools**
 
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
 
 
 **Most Used Languages**
