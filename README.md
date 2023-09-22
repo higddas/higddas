@@ -1,7 +1,12 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
-### 데이터 분석을 주로 하고 싶은 신입 개발자 입니다 
+### 안녕하세요! 👋
+  - 데이터 분석과 AI에 관심이 많은 개발자입니다.
+  - 주로 파이썬을 사용하여 데이터를 분석하고 모델을 개발합니다.
+  - 데이터 사이언스 분야에서 다양한 경험이 있습니다.
+  - 문제 해결과 효과적인 시각화를 추구하는 개발자입니다.
+  - 데이터를 기반으로한 인사이트를 도출하는 것에 열정을 가지고 있습니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhigddas&count_bg=%23A023D0&title_bg=%23555555&icon=&icon_color=%23B69191&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
